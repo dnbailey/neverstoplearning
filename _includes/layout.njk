@@ -17,10 +17,12 @@
         viewport-fit=cover"/>
     <link rel="stylesheet" href="/style.css?v={% version %}"/> {% block head %}{% endblock %}
     </head>
-    <body>
-      <h1>{{ title }}</h1>
+    <body class="bg-light">
       {% block content %}
-        <article class="prose lg:prose-2xl">{{ content | safe }}</article>
+        <article class="prose lg:prose-2xl">
+          <h2>{{ title }}</h2>
+          {{ content | safe }}
+        </article>
       {% endblock %}
     </body>
   </html>
