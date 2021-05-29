@@ -1,4 +1,4 @@
 module.exports = {
-  layout: "layout.liquid",
+  layout: "layout.njk",
   tags: "posts"
 }

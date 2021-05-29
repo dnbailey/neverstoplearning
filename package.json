@@ -4,10 +4,16 @@
   "description": "A blog to catalog my learning journey.",
   "private": true,
   "scripts": {
-    "dev": "eleventy --serve",
-    "build": "eleventy"
+    "dev": "eleventy --serve & postcss styles/tailwind.css --o _tmp/style.css --watch",
+    "build": "ELEVENTY_PRODUCTION=true eleventy & NODE_ENV=production postcss styles/tailwind.css --o _site/style.css"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.12.1"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.4.1",
+    "autoprefixer": "^10.2.6",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.1.2"
   }
 }
