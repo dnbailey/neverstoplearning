@@ -3,17 +3,18 @@ type: "article"
 title: "Atomic Habits"
 path: "atomic-habits"
 date: "2020-03-20"
+hashtags: "books"
 ---
 
 _Atomic Habits_ by James Clear could not be a more timely read. I recently had a meeting with my director of schools [Dr. Jeff Moorhouse](https://twitter.com/drjmoorhouse) (read his blog at [drjmoorhouse.blogspot.com](https://drjmoorhouse.blogspot.com/)). It was a meeting totally unrelated to James Clear's book. Still, being the great leader he is, Dr. Moorhouse took the time to mentor me and recommend Atomic Habits.
 
 Dr. Moorhouse suggested I check it out, and he nailed it! This book was 100% what I needed. A little over a week later, we are dealing with school closures for the Covid-19 crisis. The insights James Clear shares could not be more applicable to a home-work environment. The unstructured time and disruption to routine demands discipline and good habits.
 
-https://twitter.com/dnbailey/status/1237535323581644800
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Atomic Habits has really got me thinking about my classroom environment and processes and the habits being built by students. How do we help students become designers and not just consumers of their world? Thanks <a href="https://twitter.com/drjmoorhouse?ref_src=twsrc%5Etfw">@drjmoorhouse</a> for the recommendation. <a href="https://t.co/SaWUrpr7rz">pic.twitter.com/SaWUrpr7rz</a></p>&mdash; Nathan Bailey (@dnbailey) <a href="https://twitter.com/dnbailey/status/1237535323581644800?ref_src=twsrc%5Etfw">March 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 _Atomic Habits_ is a conglomeration of different strategies and techniques to build good habits and squelch bad ones. As I end the first week of quarantine from my classroom, it's really got me thinking about what happens if this continues. How will I teach from home? How does virtual learning change the way I build relationships and design lessons? How do I keep from just sitting on the couch binch watching Netflix and eating potato chips?
 
-![Binge watching Neflix](./netflix.jpg "Photo by Will Porada on Unsplash")
+![Binge watching Neflix](netflix.jpg "Photo by Will Porada on Unsplash")
 
 As a teacher facing a brave new world, I want to be the designer not just the consumer. One of the few things we have control over right now is our home environment. Learning requires focus. Often our home environments are anything but focused. Over the next week I'm going to work on my remote teaching environment. I want to remove distractions and activate my foucs in this space. James Clear has some additional suggestions on his blog post [_Motivation is Overvalued. Environment Often Matters More._](https://jamesclear.com/power-of-environment).
 

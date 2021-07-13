@@ -19,7 +19,7 @@ I've just launched a new podcast where you can listen to me Contemplating Quotes
 
 <br>
 
-<iframe src="https://anchor.fm/neverstoplearningwithme/embed/episodes/Mission-and-Vision--Episode-1-ectjf9" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/neverstoplearningwithme/embed/episodes/Mission-and-Vision--Episode-1-ectjf9" class="w-full" frameborder="0" scrolling="no"></iframe>
 
 ---
 
@@ -53,7 +53,7 @@ I think that we need to reconsider our mission statements. How are they driving 
 
 ## It's About the Journey
 
-It's easy to get caught up in the planning and never start the journey. However, the journey is where all the fun is. If we plan forever, then we never get to see our destination. Some of our favorite memories from the trip weren't in Yellowstone. 
+It's easy to get caught up in the planning and never start the journey. However, the journey is where all the fun is. If we plan forever, then we never get to see our destination. Some of our favorite memories from the trip weren't in Yellowstone.
 
 One of our favorite spots was just south of Yellowstone in Grand Teton National Park. We got to spend sunset on the shore of Jackson Lake watching the sun set behind the majestic mountains. It was something we had not envisioned or planned for, but we treasure the beauty of that moment.
 
@@ -65,6 +65,6 @@ The point is that mission and vision will not encompass all the successful momen
 
 ---
 
-What is your school's vision and mission? Are these tools really being used well or is it time to reassess your goals? I'd highly recommend checking out Wiggins and McTighe's *Schooling by Design* to all school leaders whether your in the classroom or serivng on the school board.
+What is your school's vision and mission? Are these tools really being used well or is it time to reassess your goals? I'd highly recommend checking out Wiggins and McTighe's _Schooling by Design_ to all school leaders whether your in the classroom or serivng on the school board.
 
 Share your thoughts with me [@dnbailey](https://twitter.com/dnbailey). I'm also always looking for travel ideas, so let me know where our next destination needs to be.

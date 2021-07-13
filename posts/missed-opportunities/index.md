@@ -29,14 +29,20 @@ Unfortunately, that moment is gone, and I missed the chance to connect something
 
 I can assure you I’m just waiting for the next storm to roll through, and I’ll be better attuned to where my students are so I don’t miss another opportunity.
 
-<div style="width: 300px; float:left; margin: 0 2em 2em 0; padding: 0 1em; border: 1px solid #ccc; box-shadow: 1px 1px 5px #ccc;">
-    <img src="./innovate.jpg" alt="Innovate Inside the Box"/>
-</div>
+> When we empower learners to investigate and make an impact on the world, we inspire problem-solvers and innovators. — Katie Martin, From the Forward of Innovate Inside the Box
 
-When we empower learners to investigate and make an impact on the world, we inspire problem-solvers and innovators. — Katie Martin, From the Forward of Innovate Inside the Box
+### Innovate Inside the Box
 
-<h3 style="text-align: left;">Innovate Inside the Box</h3>
+<div class="flex flex-wrap md:flex-nowrap">
+
+<div class="md:mr-10">
 
 Check out Innovate Inside the Box. It’s what I was reading when I realized the opportunity I missed. I’ve been pretty impressed so far, and I find myself reflecting on my practice.
 
 If you have any tips for recognizing those creative moments, comment below or tweet @dnbailey.
+
+</div>
+
+<iframe type="text/html" class="h-96" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.com/kp/card?asin=B07WG9P1DX&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_81T370HKE66XEVRTT07B&hideShare=true" ></iframe>
+
+</div>
